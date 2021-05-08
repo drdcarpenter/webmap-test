@@ -12,4 +12,4 @@ m <- leaflet() %>%
 
 m
 
-saveWidget(m, file = "map.html")
+saveWidget(m, file = "index.html")
